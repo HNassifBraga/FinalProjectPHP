@@ -1,0 +1,29 @@
+/* .posts
+{
+    max-width: 250px;
+} */
+/* style='height: 250px;width: auto; object-fit: cover;' */
+.imageSize
+{
+    height: 250px;
+    width: auto;
+}
+
+.infoImage
+{
+    min-width: 80rem;
+    height: auto;
+    border: 2px solid black ;
+    border-radius: 7%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.inputRegister
+{
+   max-width: 20rem;
+   border: 2px solid black ;
+   border-radius: 7%;
+   padding-left: 10px;
+   padding-right: 10px;
+
+}

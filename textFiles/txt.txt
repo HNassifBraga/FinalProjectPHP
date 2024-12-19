@@ -1,0 +1,39 @@
+    <div class="container mt-5">
+        <!-- Body Section -->
+        <div class="fs-1 text-uppercase mb-3">Body</div>
+        <div class="spec-item"><span class="spec-title">No. of doors/seats:</span> 5 / 4</div>
+        <div class="spec-item"><span class="spec-title">Length/width/height (unladen):</span> 4877 / 1983 / 1690 mm</div>
+        <div class="spec-item"><span class="spec-title">Wheelbase:</span> 2933 mm</div>
+        <div class="spec-item"><span class="spec-title">Track, front/rear:</span> 1644 / 1706 mm</div>
+        <div class="spec-item"><span class="spec-title">Turning circle:</span> 12.8 m</div>
+        <div class="spec-item"><span class="spec-title">Tank capacity:</span> 85 liters</div>
+        <div class="spec-item"><span class="spec-title">Cooling system incl. heater:</span> 10.4 liters</div>
+        <div class="spec-item"><span class="spec-title">Engine oil:</span> 7.5 liters</div>
+        <div class="spec-item"><span class="spec-title">Unladen weight (DIN/EU):</span> 1865 / 1940 kg</div>
+
+        <!-- Power Unit Section -->
+        <div class="fs-1 text-uppercase mt-5 mb-3">Power Unit</div>
+        <div class="spec-item"><span class="spec-title">Config/No. of cyls/valves:</span> In-line / 6 / 4</div>
+        <div class="spec-item"><span class="spec-title">Engine technology:</span> Turbocharger with variable intake geometry, common-rail direct fuel injection with piezo-injectors</div>
+        <div class="spec-item"><span class="spec-title">Capacity, effective:</span> 2993 cc</div>
+        <div class="spec-item"><span class="spec-title">Stroke/Bore:</span> 90.0 / 84.0 mm</div>
+        <div class="spec-item"><span class="spec-title">Compression ratio:</span> 17.0 : 1</div>
+        <div class="spec-item"><span class="spec-title">Fuel:</span> Diesel</div>
+        <div class="spec-item"><span class="spec-title">Max output:</span> 173 kW / 235 hp at 4000 rpm</div>
+        <div class="spec-item"><span class="spec-title">Max torque:</span> 520 Nm at 2000-2750 rpm</div>
+
+        <!-- Electrical System Section -->
+        <div class="fs-1 text-uppercase mt-5 mb-3">Electrical System</div>
+        <div class="spec-item"><span class="spec-title">Battery/Location:</span> 90 Ah / luggage compartment</div>
+        <div class="spec-item"><span class="spec-title">Alternator:</span> 170 A / 2380 W</div>
+
+        <!-- Driving Dynamics and Safety -->
+        <div class="fs-1 text-uppercase mt-5 mb-3">Driving Dynamics and Safety</div>
+        <div class="spec-item"><span class="spec-title">Front Suspension:</span> Double wishbone axle, small steering roll radius, anti-dive</div>
+        <div class="spec-item"><span class="spec-title">Rear Suspension:</span> Integral-IV multi-arm axle, anti-squat and anti-dive</div>
+        <div class="spec-item"><span class="spec-title">Brakes, front:</span> Single-piston swing-calliper disc brakes, 348 x 30 mm (vented)</div>
+        <div class="spec-item"><span class="spec-title">Brakes, rear:</span> Single-piston swing-calliper disc brakes, 320 x 20 mm (vented)</div>
+        <div class="spec-item"><span class="spec-title">Driving stability systems:</span> DSC incl. ABS, DTC Dynamic Traction Control, CBC, and hill descent control</div>
+        <div class="spec-item"><span class="spec-title">Tyres, front/rear:</span> 255/50 R19 107V XL RSC</div>
+        <div class="spec-item"><span class="spec-title">Rims, front/rear:</span> 9J x 19 LM</div>
+    </div>

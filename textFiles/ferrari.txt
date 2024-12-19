@@ -1,0 +1,71 @@
+<div class="container mt-5 mb-5">
+        <!-- Body Section -->
+        <div class="section-title">Ferrari F40 Body, Model and Production Details</div>
+        <div class="row">
+            <div class="col-6 spec-item">Body: <strong>Supercar</strong></div>
+            <div class="col-6 spec-item">Num. of Doors: <strong>2 doors</strong></div>
+            <div class="col-6 spec-item">Production Number: <strong>1311 units</strong></div>
+        </div>
+
+        <!-- Engine Technical Data -->
+        <div class="section-title">Ferrari F40 Engine Technical Data</div>
+        <div class="row">
+            <div class="col-6 spec-item">Engine Type - Cylinders: <strong>V 8</strong></div>
+            <div class="col-6 spec-item">Engine Code: <strong>F120 A000</strong></div>
+            <div class="col-6 spec-item">Fuel Type: <strong>Petrol</strong></div>
+            <div class="col-6 spec-item">Fuel System: <strong>Marelli-Weber fuel injection</strong></div>
+            <div class="col-6 spec-item">Engine Alignment: <strong>Longitudinal</strong></div>
+            <div class="col-6 spec-item">Engine Position: <strong>Mid-engine</strong></div>
+            <div class="col-6 spec-item">Displacement: <strong>2936 cm³ / 179.2 cu-in</strong></div>
+            <div class="col-6 spec-item">Bore x Stroke: <strong>82.0 x 69.5 mm</strong></div>
+            <div class="col-6 spec-item">Aspiration: <strong>Turbo</strong></div>
+            <div class="col-6 spec-item">Compression Ratio: <strong>7.7</strong></div>
+            <div class="col-6 spec-item">Horsepower: <strong>471 HP @ 7000 rpm</strong></div>
+            <div class="col-6 spec-item">Max Torque: <strong>577 Nm @ 4000 rpm</strong></div>
+            <div class="col-6 spec-item">Drive Wheels: <strong>RWD</strong></div>
+            <div class="col-6 spec-item">Transmission: <strong>5-speed Manual</strong></div>
+        </div>
+
+        <!-- Fuel Consumption -->
+        <div class="section-title">Ferrari F40 Fuel Consumption and Range</div>
+        <div class="row">
+            <div class="col-6 spec-item">Open Road: <strong>8.6 L/100 km (33 MPG UK / 27 MPG US)</strong></div>
+            <div class="col-6 spec-item">Highway: <strong>9.7 L/100 km (29 MPG UK / 24 MPG US)</strong></div>
+            <div class="col-6 spec-item">City: <strong>9.7 L/100 km (29 MPG UK / 24 MPG US)</strong></div>
+            <div class="col-6 spec-item">Fuel Tank Capacity: <strong>120 L</strong></div>
+            <div class="col-6 spec-item">Catalytic Converter: <strong>Yes</strong></div>
+        </div>
+
+        <!-- Performance -->
+        <div class="section-title">Ferrari F40 Performance</div>
+        <div class="row">
+            <div class="col-6 spec-item">Top Speed: <strong>324 km/h / 201 mph</strong></div>
+            <div class="col-6 spec-item">0-60 mph: <strong>3.8 s</strong></div>
+            <div class="col-6 spec-item">0-100 km/h: <strong>4.1 s</strong></div>
+            <div class="col-6 spec-item">1/4 Mile: <strong>11.9 s</strong></div>
+            <div class="col-6 spec-item">0-1000m: <strong>20.9 s</strong></div>
+        </div>
+
+        <!-- Dimensions and Weight -->
+        <div class="section-title">Ferrari F40 Size, Dimensions and Weight</div>
+        <div class="row">
+            <div class="col-6 spec-item">Wheelbase: <strong>245.0 cm</strong></div>
+            <div class="col-6 spec-item">Length: <strong>435.8 cm</strong></div>
+            <div class="col-6 spec-item">Width: <strong>197.0 cm</strong></div>
+            <div class="col-6 spec-item">Height: <strong>112.4 cm</strong></div>
+            <div class="col-6 spec-item">Ground Clearance: <strong>12.5 cm</strong></div>
+            <div class="col-6 spec-item">Curb Weight: <strong>1235 kg</strong></div>
+            <div class="col-6 spec-item">Dry Weight: <strong>1100 kg</strong></div>
+        </div>
+
+        <!-- Brakes, Tires, and Suspension -->
+        <div class="section-title">Ferrari F40 Brakes, Tires, and Suspension</div>
+        <div class="row">
+            <div class="col-6 spec-item">Front Brakes: <strong>Vented Discs (330 mm)</strong></div>
+            <div class="col-6 spec-item">Rear Brakes: <strong>Vented Discs (330 mm)</strong></div>
+            <div class="col-6 spec-item">Front Tires: <strong>245/40 R17</strong></div>
+            <div class="col-6 spec-item">Rear Tires: <strong>335/35 R17</strong></div>
+            <div class="col-6 spec-item">Front Suspension: <strong>Coil Springs, Double Wishbone</strong></div>
+            <div class="col-6 spec-item">Rear Suspension: <strong>Coil Springs, Double Wishbone</strong></div>
+        </div>
+    </div>

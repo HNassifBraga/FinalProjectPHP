@@ -1,0 +1,21 @@
+.register-form
+{
+   min-width: 3rem;
+
+
+}
+
+.wrongpass
+{
+   color: red;
+}
+
+.inputDoLogin
+{
+   max-width: 20rem;
+   border: 2px solid black ;
+   border-radius: 7%;
+   padding-left: 10px;
+   padding-right: 10px;
+}
+

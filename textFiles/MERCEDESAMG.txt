@@ -1,0 +1,67 @@
+M <div class="container mt-4">
+        <h1 class="text-center mb-5">Car Specifications</h1>
+        
+        <!-- Engine & Transmission -->
+        <div class="section">
+            <h2 class="section-title">Engine & Transmission</h2>
+            <div class="specs">
+                <p><strong>Engine Type:</strong> 4.0-L V8 BITURBO engine</p>
+                <p><strong>Displacement:</strong> 3982 cc</p>
+                <p><strong>Max Power:</strong> 576.63 bhp @ 6250 rpm</p>
+                <p><strong>Max Torque:</strong> 700 Nm @ 2100–5500 rpm</p>
+                <p><strong>No. of Cylinders:</strong> 8</p>
+                <p><strong>Valves Per Cylinder:</strong> 4</p>
+                <p><strong>Valve Configuration:</strong> DOHC</p>
+                <p><strong>Fuel Supply System:</strong> Direct Injection</p>
+                <p><strong>Turbo Charger:</strong> Yes</p>
+                <p><strong>Transmission Type:</strong> Automatic</p>
+                <p><strong>Gearbox:</strong> 7-Speed DCT dual-clutch</p>
+                <p><strong>Drive Type:</strong> RWD</p>
+            </div>
+        </div>
+
+        <!-- Fuel & Performance -->
+        <div class="section">
+            <h2 class="section-title">Fuel & Performance</h2>
+            <div class="specs">
+                <p><strong>Fuel Type:</strong> Petrol</p>
+                <p><strong>Petrol Mileage (ARAI):</strong> 12.65 kmpl</p>
+                <p><strong>Fuel Tank Capacity:</strong> 75 Litres</p>
+                <p><strong>Emission Norm Compliance:</strong> BS VI</p>
+                <p><strong>Top Speed:</strong> 318 kmph</p>
+            </div>
+        </div>
+
+        <!-- Suspension, Steering & Brakes -->
+        <div class="section">
+            <h2 class="section-title">Suspension, Steering & Brakes</h2>
+            <div class="specs">
+                <p><strong>Front Suspension:</strong> Independent Suspension</p>
+                <p><strong>Rear Suspension:</strong> Coil spring</p>
+                <p><strong>Steering Type:</strong> Power</p>
+                <p><strong>Steering Column:</strong> Tilt</p>
+                <p><strong>Steering Gear Type:</strong> Rack & Pinion</p>
+                <p><strong>Turning Radius:</strong> 5.73 metres</p>
+                <p><strong>Front Brake Type:</strong> Disc</p>
+                <p><strong>Rear Brake Type:</strong> Disc</p>
+                <p><strong>Acceleration (0-100 kmph):</strong> 3.6 Seconds</p>
+            </div>
+        </div>
+
+        <!-- Dimensions & Capacity -->
+        <div class="section">
+            <h2 class="section-title">Dimensions & Capacity</h2>
+            <div class="specs">
+                <p><strong>Length:</strong> 4551 mm</p>
+                <p><strong>Width:</strong> 2007 mm</p>
+                <p><strong>Height:</strong> 1284 mm</p>
+                <p><strong>Seating Capacity:</strong> 2</p>
+                <p><strong>Wheel Base:</strong> 2630 mm</p>
+                <p><strong>Front Tread:</strong> 1684 mm</p>
+                <p><strong>Rear Tread:</strong> 1681 mm</p>
+                <p><strong>Kerb Weight:</strong> 1630 kg</p>
+                <p><strong>Gross Weight:</strong> 1890 kg</p>
+                <p><strong>No. of Doors:</strong> 2</p>
+            </div>
+        </div>
+    </div>

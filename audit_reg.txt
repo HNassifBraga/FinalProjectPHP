@@ -1,0 +1,18 @@
+
+
+[2024-12-14 01:46:44], 
+username: matheus, 
+action: Register user,
+details: user registered
+
+
+
+[2024-12-16 19:23:34], 
+username: , 
+action: Register user,
+details: user registered
+
+[2024-12-17 20:51:53], 
+username: , 
+action: Register user,
+details: user registered

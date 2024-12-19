@@ -1,0 +1,191 @@
+
+
+[2024-12-16 19:23:45], 
+username: Nassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-16 20:03:05], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-16 20:04:05], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-16 20:04:20], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-16 20:05:08], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-16 20:06:24], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-16 20:07:45], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-16 20:08:47], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-16 20:09:20], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-16 20:10:26], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-16 20:10:28], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-16 20:10:38], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-16 20:11:14], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-16 20:11:26], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-16 20:12:53], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-16 20:33:56], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-16 20:35:28], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-16 20:36:46], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-16 20:37:27], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-16 20:37:36], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-16 20:38:00], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-16 20:38:07], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-16 20:38:12], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-16 21:49:43], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-16 21:49:59], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-16 21:50:11], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-17 20:15:23], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-17 20:19:00], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-18 12:00:09], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-18 12:07:41], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-18 12:07:57], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-18 12:08:21], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-18 12:08:25], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-18 12:08:28], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-18 12:08:44], 
+username: Nassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-18 12:08:55], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-18 20:17:11], 
+username: gustavoNassif, 
+action: Bought it,
+details: user Bought car succesfully 
+
+[2024-12-18 20:17:30], 
+username: Nassif, 
+action: Bought it,
+details: user Bought car succesfully 

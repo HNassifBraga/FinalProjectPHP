@@ -1,0 +1,34 @@
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <link rel="stylesheet" href="style.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        
+
+    </head>
+    <body class="sala">
+        <div class=" inputRegister container mt-5  d-flex justify-content-center" style="max-width: 20rem; border: 2px solid black; border-radius: 7%; padding-left: 10px; padding-right: 10px;" >
+            <form action="index.php" method="post" class="mt-3" >
+                <label class="register-form" for="user">user: </label>
+                <input type="text" name="user" id="user" class="form-control mt-4 me-2" placeholder="user">
+                <label class="register-form">email: </label>
+                <input type="email" name="email" class="form-control mt-4 me-2" placeholder="email">
+                <label class="register-form">name: </label>
+                <input type="text" name="name" class="form-control mt-4 me-2" placeholder="name">
+                <label class="register-form">age: </label>
+                <input type="int" name="age" class="form-control mt-4 me-2" placeholder="age"><br>
+                <label class="register-form">role: </label>
+                <input type="radio" name="role" class="form-check-input" value="admin">admin
+                <input type="radio" name="role" class="form-check-input" value="editor">editor
+                <input type="radio" name="role" class="form-check-input"  value="viewer">viewer
+                <br><br><label class="register-form">pass: </label>
+                <input type="password"  name="pass" class="form-control mt-4 me-2    " placeholder="pass">
+                <button type="submit" name="registerUser" class="mt-3 btn btn-primary mb-4">register</button>    
+            </form>
+        </div>
+    </body>
+    </html>

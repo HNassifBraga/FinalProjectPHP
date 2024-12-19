@@ -1,0 +1,127 @@
+ <div class="container mt-4">
+        <h1 class="text-center mb-5">Car Specifications</h1>
+
+        <!-- EPA Classification -->
+        <div class="section">
+            <h2 class="section-title">EPA Classification</h2>
+            <div class="specs">
+                <p><strong>Category:</strong> Large Cars</p>
+            </div>
+        </div>
+
+        <!-- Drivetrain -->
+        <div class="section">
+            <h2 class="section-title">Drivetrain</h2>
+            <div class="specs">
+                <p><strong>Drivetrain:</strong> All Wheel Drive</p>
+            </div>
+        </div>
+
+        <!-- Engine -->
+        <div class="section">
+            <h2 class="section-title">Engine</h2>
+            <div class="specs">
+                <p><strong>Engine Type and Required Fuel:</strong> Electric</p>
+                <p><strong>Maximum Horsepower @ RPM:</strong> 1020</p>
+                <p><strong>Maximum Torque @ RPM:</strong> 1050</p>
+                <p><strong>Transmission Description:</strong> Automatic</p>
+                <p><strong>Number of Transmission Speeds:</strong> 1</p>
+                <p><strong>First Gear Ratio:</strong> 8.28</p>
+            </div>
+        </div>
+
+        <!-- Fuel Economy and Range -->
+        <div class="section">
+            <h2 class="section-title">Fuel Economy and Range</h2>
+            <div class="specs">
+                <p><strong>EPA Greenhouse Gas Score:</strong> 10.0 (Est)</p>
+                <p><strong>EPA Fuel Economy Equivalent (MPGe):</strong> Combined 107.013 / City 111 / Highway 103</p>
+            </div>
+        </div>
+
+        <!-- Exterior Dimensions -->
+        <div class="section">
+            <h2 class="section-title">Exterior Dimensions</h2>
+            <div class="specs">
+                <p><strong>Wheelbase:</strong> 116.5 inches</p>
+                <p><strong>Length:</strong> 197.7 inches</p>
+                <p><strong>Width (without mirrors):</strong> 78.2 inches</p>
+                <p><strong>Height:</strong> 56.3 inches</p>
+                <p><strong>Front Track Width:</strong> 66.5 inches</p>
+                <p><strong>Rear Track Width:</strong> 66.5 inches</p>
+                <p><strong>Ground Clearance:</strong> 4.6 inches</p>
+            </div>
+        </div>
+
+        <!-- Interior Dimensions -->
+        <div class="section">
+            <h2 class="section-title">Interior Dimensions</h2>
+            <div class="specs">
+                <p><strong>Seating Capacity:</strong> 5</p>
+                <p><strong>Front Head Room:</strong> 39.7 inches</p>
+                <p><strong>Front Leg Room:</strong> 42.4 inches</p>
+                <p><strong>Front Shoulder Room:</strong> 58.4 inches</p>
+                <p><strong>Second Row Head Room:</strong> 38.1 inches</p>
+                <p><strong>Second Row Leg Room:</strong> 35.5 inches</p>
+                <p><strong>Second Row Shoulder Room:</strong> 55.1 inches</p>
+            </div>
+        </div>
+
+        <!-- Cargo Area -->
+        <div class="section">
+            <h2 class="section-title">Cargo Area Dimensions</h2>
+            <div class="specs">
+                <p><strong>Cargo Space with Rear Seat Down:</strong> 61.4 cubic feet</p>
+                <p><strong>Cargo Space with Rear Seat Up:</strong> 25 cubic feet</p>
+            </div>
+        </div>
+
+        <!-- Steering -->
+        <div class="section">
+            <h2 class="section-title">Steering</h2>
+            <div class="specs">
+                <p><strong>Steering Type:</strong> Rack-Pinion</p>
+                <p><strong>Turning Diameter (Curb to Curb):</strong> 40.3 feet</p>
+            </div>
+        </div>
+
+        <!-- Suspension -->
+        <div class="section">
+            <h2 class="section-title">Suspension</h2>
+            <div class="specs">
+                <p><strong>Front Suspension Type:</strong> Double Wishbone</p>
+                <p><strong>Rear Suspension Type:</strong> Multi-Link</p>
+            </div>
+        </div>
+
+        <!-- Brakes -->
+        <div class="section">
+            <h2 class="section-title">Brakes</h2>
+            <div class="specs">
+                <p><strong>Brake Type:</strong> 4-Wheel Disc</p>
+                <p><strong>Front Brake Rotors:</strong> 15 inches</p>
+                <p><strong>Rear Brake Rotors:</strong> 14.4 inches</p>
+            </div>
+        </div>
+
+        <!-- Wheels and Tires -->
+        <div class="section">
+            <h2 class="section-title">Wheels and Tires</h2>
+            <div class="specs">
+                <p><strong>Front Wheel Size:</strong> 19 x 9.5 inches</p>
+                <p><strong>Rear Wheel Size:</strong> 19 x 10.5 inches</p>
+                <p><strong>Front Tire Size:</strong> P255/45WR19</p>
+                <p><strong>Rear Tire Size:</strong> P285/40WR19</p>
+                <p><strong>Front Wheel Material:</strong> Aluminum</p>
+                <p><strong>Rear Wheel Material:</strong> Aluminum</p>
+            </div>
+        </div>
+
+        <!-- Weight -->
+        <div class="section">
+            <h2 class="section-title">Weight Information</h2>
+            <div class="specs">
+                <p><strong>Base Curb Weight:</strong> 4776 pounds</p>
+            </div>
+        </div>
+    </div>
